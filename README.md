@@ -1,5 +1,4 @@
-# Yanna-Feels
-<!DOCTYPE html>
+# Yanna Feelings Digitally Written
 <html lang="en">
 <head>
     <meta charset="UTF-8">
