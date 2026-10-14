@@ -95,10 +95,6 @@
         <canvas id="heartCanvas" width="800" height="800"></canvas>
     </div>
 
-    <!-- Romantic Background Instrumental Track -->
-    <audio id="bg-music" loop>
-        <source src="https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3" type="audio/mpeg">
-    </audio>
 
 <script>
     const lockScreen = document.getElementById('lock-screen');
